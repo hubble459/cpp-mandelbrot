@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Programming/cpp/Mandelbrot/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++14 -o CMakeFiles\\Mandelbrot.dir\\main.cpp.obj -c D:\\Programming\\cpp\\Mandelbrot\\main.cpp",
+  "file": "D:/Programming/cpp/Mandelbrot/main.cpp"
+},
+{
+  "directory": "D:/Programming/cpp/Mandelbrot/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++14 -o CMakeFiles\\Mandelbrot.dir\\MessageHandler.cpp.obj -c D:\\Programming\\cpp\\Mandelbrot\\MessageHandler.cpp",
+  "file": "D:/Programming/cpp/Mandelbrot/MessageHandler.cpp"
+}
+]

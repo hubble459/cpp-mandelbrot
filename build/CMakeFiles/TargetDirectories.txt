@@ -1,0 +1,3 @@
+D:/Programming/cpp/Mandelbrot/build/CMakeFiles/Mandelbrot.dir
+D:/Programming/cpp/Mandelbrot/build/CMakeFiles/edit_cache.dir
+D:/Programming/cpp/Mandelbrot/build/CMakeFiles/rebuild_cache.dir

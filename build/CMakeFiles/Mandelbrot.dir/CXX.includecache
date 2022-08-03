@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Programming/cpp/Mandelbrot/MessageHandler.cpp
+MessageHandler.h
+/mnt/d/Programming/cpp/Mandelbrot/MessageHandler.h
+
+/mnt/d/Programming/cpp/Mandelbrot/MessageHandler.h
+windowsx.h
+-
+windows.h
+-
+iostream
+-
+cmath
+-
+string
+-
+chrono
+-
+iomanip
+-
+sstream
+-
+
+/mnt/d/Programming/cpp/Mandelbrot/main.cpp
+windows.h
+-
+iostream
+-
+MessageHandler.h
+/mnt/d/Programming/cpp/Mandelbrot/MessageHandler.h
+
